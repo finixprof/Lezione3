@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GenericAndInterface
+namespace Lezione3.GenericAndInterface
 {
     public class Generico<T>
     {
